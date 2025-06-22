@@ -1,2 +1,4 @@
-itss the initial commit for my code
 # shop
+Best ecommerce website
+[ ] login 
+[x] register
